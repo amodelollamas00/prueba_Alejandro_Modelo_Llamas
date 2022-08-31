@@ -1,4 +1,4 @@
-##PASOS PARA LA PRUEBA DEL PROGRAMA##
+## PASOS PARA LA PRUEBA DEL PROGRAMA ##
 
 - 1.-Ejecutar composer update
 - 2.-Ejecutar las migraciones
